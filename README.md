@@ -1,7 +1,4 @@
-# picpay-simplificado
-Claro, aqui está uma sugestão de apresentação para seu projeto de desafio de backend em Java, chamado "PicPay Simplificado":
 
----
 
 # PicPay Simplificado - Desafio de Backend em Java
 
@@ -49,7 +46,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, rel
 
 ## Contato
 
-Para mais informações, entre em contato pelo e-mail [seu-email@example.com](mailto:seu-email@example.com).
+Para mais informações, entre em contato pelo e-mail [joaovictorfaisca@gmail.com](mailto:joaovictorfaisca@gmail.com).
 
 ---
 
