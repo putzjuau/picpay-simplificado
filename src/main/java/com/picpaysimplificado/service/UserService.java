@@ -17,7 +17,7 @@ public class UserService {
     private UserRepository repository;
 
     public void validateTransaction(User sender, BigDecimal amount) throws Exception {
-        if (sender.getUsersType() == UserType.MERCHANT) {
+        if (sender.getUserType() == UserType.MERCHANT) {
             throw new Exception("Usuário do tipo lojista não está autorizado a realizar transação");
         }
 
